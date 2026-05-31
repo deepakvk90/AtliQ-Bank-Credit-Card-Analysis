@@ -59,4 +59,6 @@ Author
 
 Deepak Vishwakarma
 
-Data Analytics | Finance Professional | Power BI | Python | SQL
+Data Science Learner | Finance Professional | Power BI | Python | SQL
+
+#python#pandas#numpy#matplotlib#seaborn#data-analysis#eda#ab-testing#hypothesis-testing#statistics#banking-analytics#data-science
